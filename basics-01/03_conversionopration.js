@@ -42,3 +42,28 @@ let stringNumber = String(someNumber)
 
 console.log(stringNumber)
 console.log(typeof stringNumber)
+
+
+
+//**************** Oprations ************//
+
+let value =3
+let negValue =-value
+
+console.log(negValue)
+
+let str1= "Muhammad"
+let str2=" Umar"
+
+let str3=str1+str2
+
+console.log(str3)
+
+
+console.log("1" + 2)
+console.log(1+"2")
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+
+
+
